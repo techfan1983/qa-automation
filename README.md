@@ -2,7 +2,7 @@
 
 Prerequisites:<br/>
 0. Choose any desirable Git client, e.g. SourceTree<br/>
-1. register your user account on GitHub, chat me in slack in private your email (using wich you have registered)<br/>
+1. register your user account on GitHub, chat me in slack in private your GitHub UserName (using wich you have registered)<br/>
 2. I will send your invitation on your email, accept invitation<br/>
 3. make working copy of repository<br/>
 
