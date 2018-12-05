@@ -30,8 +30,10 @@ TASK 3:<br/>
 
 
 YOUR FIRST AND LAST NAMES        DATE OF BIRTH <br/>
+
 Oleg Yatsuta                     Aug 26 <br/>
 Oleksandr Bazurin                Jul 27 <br/>
 Volodymyr Ostrovskyi			 Apr 23 <br/>
 Roman Havura					 Oct 14 <br/>
-Ihor Stechyshyn				  Nov 05 <br/>
+Ihor Stechyshyn				     Nov 05 <br/>
+Andrii Stepaniuk				 Feb 21 <br/>
