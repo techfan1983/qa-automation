@@ -31,3 +31,4 @@ TASK 3:<br/>
 
 YOUR FIRST AND LAST NAMES        DATE OF BIRTH <br/>
 Oleg Yatsuta                     Aug 26 <br/>
+Oleksandr Bazurin                Jul 27 <br/>
