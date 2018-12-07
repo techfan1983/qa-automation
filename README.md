@@ -37,3 +37,4 @@ Volodymyr Ostrovskyi			 Apr 23 <br/>
 Roman Havura					 Oct 14 <br/>
 Ihor Stechyshyn				     Nov 05 <br/>
 Andrii Stepaniuk				 Feb 21 <br/>
+Fedir Vasyliuk                    Mar 18 <br/>
