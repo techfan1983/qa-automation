@@ -39,3 +39,4 @@ Ihor Stechyshyn				     Nov 05 <br/>
 Andrii Stepaniuk				 Feb 21 <br/>
 Fedir Vasyliuk                    Mar 18 <br/>
 Taras Maksymiv                   Apr 10 <br/>
+Alex Pidgirets						Apr 27<br/>
