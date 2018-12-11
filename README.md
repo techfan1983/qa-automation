@@ -42,3 +42,4 @@ Taras Maksymiv                   Apr 10 <br/>
 Alex Pidgirets						Apr 27<br/>
 Vasyl Tymcyshyn                  Oct 5<br/>
 Artur Maksymiv                   Apr 01<br/>
+Maksym Dranivskyi				Jan 30 <br/>
